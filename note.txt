@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản hiệu quả
 - Dễ dàng làm việc nhóm
 - Học Git giúp nâng cao kỹ năng lập trình
+- Hỗ trợ làm việc với nhiều branch
+- Có thể kết hợp với CI/CD
