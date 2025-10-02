@@ -11,3 +11,10 @@ Kỹ năng:
 1. Giao tiếp
 2. Làm việc nhóm
 3. Giải quyết vấn đề
+
+Kế hoạch học tập:
+1. Ôn tập Git hàng ngày.
+2. Thực hành các lệnh cơ bản và nâng cao.
+3. Tham gia dự án nhóm để luyện tập.
+4. Tìm hiểu thêm CI/CD trên GitHub Actions.
+5. Chuẩn bị cho kỳ thi cuối kỳ.
