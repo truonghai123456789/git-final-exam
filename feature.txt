@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống thông báo
+1. Thông báo khi có commit mới.
+2. Hiển thị thông báo trên giao diện web.
+3. Cho phép người dùng tắt/bật thông báo.
+4. Gửi email khi có sự kiện quan trọng.
+5. Lưu lịch sử thông báo trong database.
